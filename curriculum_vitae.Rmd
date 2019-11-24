@@ -1,0 +1,196 @@
+---
+title: "S.R. Kartoikromo"
+author: Sydney Kartoikromo
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+
+![Sydney Kartoikromo](/Documents/Werk/Pagedown_CV/pasfoto2.png){width=80%}
+
+
+
+Ik heb altijd een sterke affiniteit gehad met de culturele sector en maatschappelijke vraagstukken.
+Daarnaast heb ik tijdens het hervatten van mijn studie sociologie o.a. leren programmeren met R,
+waarna ik mij steeds meer ben gaan verdiepen in de verschillende aspecten van data science.
+
+
+
+Data Science Skills {#skills}
+--------------------------------------------------------------------------------
+
+- R - Data Munging, Visualisatie, Modellering
+
+- SQL - Data Querying
+
+- Python, UNIX - Basics
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Laats bijgewerkt op `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Sydney Kartoikromo {#title}
+--------------------------------------------------------------------------------
+
+<i class="fa fa-envelope"></i> kartoikromo@yahoo.com  
+<i class="fa fa-github"></i> [github.com/SydneyKartoikromo](https://github.com/SydneyKartoikromo)  
+<i class="fa fa-phone"></i> +31647816701
+
+
+Opleiding {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### MSc in Sociologie (Deeltijd)
+
+Major: Grootstedelijke Vraagstukken & Beleid  
+<br/>
+<i class="fa fa-map-marker"></i> Erasmus Universiteit Rotterdam
+
+N/A
+
+2016--2019
+
+### BA in Sociologie
+
+<br/>
+<i class="fa fa-map-marker"></i> Erasmus Universiteit Rotterdam
+
+N/A
+
+2002--2005
+2013--2015
+
+### Uitwisselingsprogramma
+
+<br/>
+<i class="fa fa-map-marker"></i> Keio Universiteit Tokyo
+
+N/A
+
+2001--2002
+
+### BA in Japankunde
+
+Economisch/Culturele Opleiding  
+<br/>
+<i class="fa fa-map-marker"></i> Erasmus Universiteit Rotterdam
+
+N/A
+
+1999--2002
+
+Werkervaring {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Postbode
+
+PostNL  
+- Tevens werkzaam geweest als coordinator postbezorgers en als medewerker expeditie.  
+- Meerdere malen een gratificatie ontvangen wegens flexibele inzet en goede prestaties.
+
+N/A
+
+2003--heden
+
+
+### DJ, Gids, Verkoopmedewerker, Artiestenbegeleider, Fondsenwerver
+
+<br/>
+<i class="fa fa-map-marker"></i> Festivals, feesten, exposities en andere evenementen
+
+N/A
+
+2005--heden
+
+Overig {data-icon=paperclip}
+--------------------------------------------------------------------------------
+
+### Vrijwilliger
+
+International Film Festival Rotterdam
+
+N/A
+
+2001--2015
+
+- Callcenter Medewerker
+- Publieksprijs Enqueteur
+- Kaartverkoper
+<br/><br/>
+
+
+Certificaten {data-icon=award}
+--------------------------------------------------------------------------------
+
+### Big Data with R Skill Track (Datacamp)
+
+N/A
+
+N/A
+
+2018--2019
+
+- Writing Efficient R Code
+- Visualizing Big Data with Trelliscope
+- Scalable Data Processing in R
+- Introduction to Spark in R using sparklyr
+- Parallel Programming in R
+
+
+### Data Scientist with R Career Track (Datacamp)
+
+N/A
+
+N/A
+
+2017--2019
+
+- Introduction to R
+- Intermediate R
+- Introduction to the Tidyverse
+- Importing Data in R (Part 1)
+- Importing Data in R (Part 2)
+- Cleaning Data in R
+- Importing & Cleaning Data in R: Case Studies
+- Writing Functions in R
+- Data Manipulation in R with dplyr
+- Joining Data in R with dplyr
+- Intro to SQL for Data Science
+- Joining Data in SQL
+- Data Visualization with ggplot2 (Part 1)
+- Data Visualization with ggplot2 (Part 2)
+- Working with Dates and Times in R
+- Introduction to Data in R
+- Exploratory Data Analysis in R
+- Exploratory Data Analysis in R: Case Study
+- Correlation and Regression in R
+- Cluster Analysis in R
+- Supervised Learning in R
+- Unsupervised Learning in R
+- Reporting with R Markdown
+
+### Python (Datacamp)
+
+N/A
+
+N/A
+
+2019
+
+- Introduction to Python
+- Intermediate Python for Data Science
