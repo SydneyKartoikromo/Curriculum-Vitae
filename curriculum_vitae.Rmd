@@ -37,7 +37,7 @@ Disclaimer {#disclaimer}
 
 <!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
 
-Laats bijgewerkt op `r Sys.Date()`.
+Laatst bijgewerkt op `r Sys.Date()`.
 
 
 
