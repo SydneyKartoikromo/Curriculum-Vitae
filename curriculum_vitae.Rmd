@@ -27,7 +27,7 @@ Data Science Skills {#skills}
 
 - R - Data Munging, Visualisatie, Modellering
 
-- SQL - Data Querying
+- SQL - Data Querying, Hive, Impala
 
 - Python, UNIX - Basics
 
