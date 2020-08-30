@@ -47,7 +47,7 @@ Main
 Sydney Kartoikromo {#title}
 --------------------------------------------------------------------------------
 
-<i class="fa fa-envelope"></i> kartoikromo@yahoo.com  
+<i class="fa fa-envelope"></i> ########@yahoo.com  
 <i class="fa fa-github"></i> [github.com/SydneyKartoikromo](https://github.com/SydneyKartoikromo)  
 <i class="fa fa-phone"></i> +316########
 
