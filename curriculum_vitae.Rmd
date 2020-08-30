@@ -49,7 +49,7 @@ Sydney Kartoikromo {#title}
 
 <i class="fa fa-envelope"></i> kartoikromo@yahoo.com  
 <i class="fa fa-github"></i> [github.com/SydneyKartoikromo](https://github.com/SydneyKartoikromo)  
-<i class="fa fa-phone"></i> +31647816701
+<i class="fa fa-phone"></i> +316########
 
 
 Opleiding {data-icon=graduation-cap data-concise=true}
